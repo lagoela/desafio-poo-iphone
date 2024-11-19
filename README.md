@@ -8,7 +8,7 @@ A proposta desse desafio é criar um diagrama UML para o iPhone (2007), levando 
 - Criar as classes e interfaces baseado no diagrama (Opcional)
 
 ## Técnias usadas
-> Diagrama UML (Utilizando a ferramenta `Mermaid`)
+- Diagrama UML (Utilizando a ferramenta `Mermaid`)
 - Interfaces
 - Estrutura de Classes
 - Git
